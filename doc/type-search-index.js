@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"ChainingHash"},{"p":"<Unnamed>","l":"HashTable"},{"p":"<Unnamed>","l":"LinearHash"},{"p":"<Unnamed>","l":"MainTesting"},{"p":"<Unnamed>","l":"Power"},{"p":"<Unnamed>","l":"QuadraticHash"}]

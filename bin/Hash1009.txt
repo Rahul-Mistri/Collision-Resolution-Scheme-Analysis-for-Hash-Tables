@@ -1,0 +1,18 @@
+Linear
+IPC: 133
+Load Factor: 0.49554013875123887
+SPC: 114
+Avg SPC: 0.285
+Max SPC: 5
+Quadratic
+IPC: 125
+Load Factor: 0.49554013875123887
+SPC: 95
+Avg SPC: 0.2375
+Max SPC: 6
+Chaining
+IPC: 49
+Load Factor: 0.49554013875123887
+SPC: 43
+Avg SPC: 0.1075
+Max SPC: 2
